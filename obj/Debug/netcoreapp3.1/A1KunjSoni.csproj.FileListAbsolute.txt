@@ -1,0 +1,13 @@
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\bin\Debug\netcoreapp3.1\A1KunjSoni.exe
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\bin\Debug\netcoreapp3.1\A1KunjSoni.deps.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\bin\Debug\netcoreapp3.1\A1KunjSoni.runtimeconfig.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\bin\Debug\netcoreapp3.1\A1KunjSoni.runtimeconfig.dev.json
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\bin\Debug\netcoreapp3.1\A1KunjSoni.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\bin\Debug\netcoreapp3.1\A1KunjSoni.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\obj\Debug\netcoreapp3.1\A1KunjSoni.AssemblyInfoInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\obj\Debug\netcoreapp3.1\A1KunjSoni.AssemblyInfo.cs
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\obj\Debug\netcoreapp3.1\A1KunjSoni.csproj.CoreCompileInputs.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\obj\Debug\netcoreapp3.1\A1KunjSoni.dll
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\obj\Debug\netcoreapp3.1\A1KunjSoni.pdb
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\obj\Debug\netcoreapp3.1\A1KunjSoni.genruntimeconfig.cache
+C:\SHERIDAN COLLEGE WORK\SEMESTER 4\.NET TECHNOLOGIES USIGN C# - GURSHARAN SINGH TATLA\Practicals\Class Practicals in .Net\A1KunjSoni\obj\Debug\netcoreapp3.1\A1KunjSoni.csprojAssemblyReference.cache
